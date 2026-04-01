@@ -1,10 +1,10 @@
-# 🎨 Cartella assets – Puccia Linux
+# 🎨 Cartella assets – Puccia Tech
 
-Benvenuto nella cartella `assets/`, lo spazio dedicato ai materiali visivi del format Puccia Linux!
+Benvenuto nella cartella `assets/`, lo spazio dedicato ai materiali visivi del format Puccia Tech!
 
 ## Cosa puoi caricare qui
 
-- Loghi ufficiali o alternativi del Puccia Linux
+- Loghi ufficiali o alternativi del Puccia Tech
 - Banner per eventi, social e locandine
 - Template per grafiche future (SVG, PDF, PNG, ecc.)
 - Sticker o elementi visivi a tema nerd / open source
@@ -22,4 +22,4 @@ Non abbiamo ancora un logo ufficiale. Se vuoi crearne uno, **fai una pull reques
 
 ---
 
-Grazie per contribuire al lato visivo di Puccia Linux! 🐧🍞
+Grazie per contribuire al lato visivo di Puccia Tech! 🐧🍞

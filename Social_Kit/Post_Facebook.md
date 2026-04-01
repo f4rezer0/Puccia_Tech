@@ -1,7 +1,7 @@
-# 📣 Post Facebook – Puccia Linux
+# 📣 Post Facebook – Puccia Tech
 
 🚨 *BREAKING PUCCIA* 🚨  
-🐧 Torna il **Puccia Linux** – l’evento open source più saporito del Salento!
+🐧 Torna il **Puccia Tech** – l’evento open source più saporito del Salento!
 
 📅 [Data dell’evento]  
 📍 [Luogo, città]
@@ -17,4 +17,4 @@ Un incontro informale tra talk tecnici, cultura libera e... puccia farcita fino 
 🎟️ Ingresso gratuito – prenota su Pretix!  
 📖 Info evento: [link al sito o pagina]
 
-#PucciaLinux #OpenSource #LinuxCommunity #FLOSS #SalentoTech #OpenKnowledgeHub #PucciaPower #FareZeroMakers
+#PucciaTech #OpenSource #LinuxCommunity #FLOSS #SalentoTech #OpenKnowledgeHub #PucciaPower #FareZeroMakers

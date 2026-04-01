@@ -1,23 +1,23 @@
-# 🗓️ Modello evento Pretix – Puccia Linux
+# 🗓️ Modello evento Pretix – Puccia Tech
 
-Queste linee guida aiutano a configurare l’evento Puccia Linux su [Pretix](https://pretix.eu), per una gestione semplice dei partecipanti.
+Queste linee guida aiutano a configurare l’evento Puccia Tech su [Pretix](https://pretix.eu), per una gestione semplice dei partecipanti.
 
 ---
 
 ## 📌 Titolo evento
 
-**Puccia Linux – [Nome città/edizione]**
+**Puccia Tech – [Nome città/edizione]**
 
 Esempio:
-> Puccia Linux – Francavilla Fontana 2025
+> Puccia Tech – Francavilla Fontana 2025
 
 ---
 
 ## 📝 Descrizione evento (da inserire su Pretix)
 
-🐧 È ufficiale: torna il **Puccia Linux**, l’evento open source più saporito del Salento!
+🐧 È ufficiale: torna il **Puccia Tech**, l’evento open source più saporito del Salento!
 
-Un evento aperto, informale, tecnico e conviviale: talk su Linux, software libero, sviluppo, community building... e alla fine, tutti a pucciare.
+Un evento aperto, informale, tecnico e conviviale: talk su Linux, software libero, sviluppo, AI, IoT, Cloud, Community building... e alla fine, tutti a pucciare.
 
 **This Time lo faremo Seriooh! ...Maybe.**
 
@@ -47,7 +47,7 @@ Un evento aperto, informale, tecnico e conviviale: talk su Linux, software liber
 
 ## ✉️ Messaggio di conferma (facoltativo)
 
-> Grazie per esserti registrato al Puccia Linux!  
+> Grazie per esserti registrato al Puccia Tech!  
 > Non dimenticare di portare il tuo entusiasmo, la voglia di condividere… e un sano appetito.  
 >  
 > 📍 La location: [indirizzo]  

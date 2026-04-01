@@ -1,6 +1,6 @@
-# 🖼️ Template Slide – Puccia Linux
+# 🖼️ Template Slide – Puccia Tech
 
-Questa cartella contiene il **template ufficiale delle slide** da utilizzare per i talk del Puccia Linux.  
+Questa cartella contiene il **template ufficiale delle slide** da utilizzare per i talk del Puccia Tech.  
 Tutti i materiali sono rilasciati in **licenza CC-BY-SA 4.0** e pronti per essere riutilizzati o adattati nelle prossime edizioni.
 
 ---

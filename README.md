@@ -1,12 +1,12 @@
-# Puccia_Linux
+# Puccia Tech
 Dove si compila il kernel… e si farcisce la puccia. Format open per eventi tech decentralizzati, made in Salento 🐧🍞
 
 
-# Contribuire al format Puccia Linux
+# Contribuire al format Puccia Tech
 
 Grazie per il tuo interesse! 💛
 
-Puccia Linux è un format libero e aperto: la community è il suo cuore. Se vuoi contribuire, ecco come fare:
+Puccia Tech è un format libero e aperto: la community è il suo cuore. Se vuoi contribuire, ecco come fare:
 
 ## 🧩 Idee di contributo
 
@@ -14,7 +14,7 @@ Puccia Linux è un format libero e aperto: la community è il suo cuore. Se vuoi
 - Creare e condividere asset grafici (loghi, banner, sfondi)
 - Scrivere copy social per nuove edizioni
 - Tradurre il format in altre lingue
-- Documentare una tua edizione di Puccia Linux
+- Documentare una tua edizione di Puccia Tech
 
 ## 📂 Come iniziare
 

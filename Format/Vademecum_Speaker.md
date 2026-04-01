@@ -1,4 +1,4 @@
-# 🎤 Vademecum Speaker – Puccia Linux
+# 🎤 Vademecum Speaker – Puccia Tech
 
 Grazie per aver proposto il tuo talk!\
 Ecco qualche consiglio per prepararti e partecipare al meglio all’evento.
