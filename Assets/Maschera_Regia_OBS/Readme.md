@@ -1,10 +1,10 @@
-# 🎛️ Maschera Regia OBS – Puccia Linux
+# 🎛️ Maschera Regia OBS – Puccia Tech
 
-Questa cartella contiene la **maschera regia** per gestire la proiezione e la scaletta degli interventi al **Puccia Linux**, pensata per l'uso con **OBS Studio**.
+Questa cartella contiene la **maschera regia** per gestire la proiezione e la scaletta degli interventi al **Puccia Tech**, pensata per l'uso con **OBS Studio**.
 
 > ✅ Timer visivo, suoni inclusi, maschera proiettabile e pronta all’uso!
 
-Repo ufficiale: [github.com/willskymaker/Puccia\_Linux](https://github.com/willskymaker/Puccia_Linux/tree/main/Assets/Maschera_Regia_OBS)
+Repo ufficiale: [github.com/f4rezer0/Puccia_Tech.git](https://github.com/f4rezer0/Puccia_Tech/tree/main/Assets/Maschera_Regia_OBS)
 
 ---
 
@@ -82,7 +82,7 @@ Puoi importare la collezione `Maschera_Regia_OBS.json` per avere subito pronta l
 
 ## 🤝 Come contribuire
 
-Hai suggerimenti, migliorie o vuoi adattare la maschera per altri eventi? Fai una **pull request** o apri una issue su [GitHub](https://github.com/willskymaker/Puccia_Linux).
+Hai suggerimenti, migliorie o vuoi adattare la maschera per altri eventi? Fai una **pull request** o apri una issue su [GitHub](https://github.com/f4rezer0/Puccia_Tech.git).
 
 ---
 
@@ -95,7 +95,7 @@ Può essere modificata, adattata e riutilizzata citando la fonte.
 
 ## 🙌 Autori
 
-Realizzata da William e il team **Puccia Linux**\
+Realizzata da William e il team **Puccia Tech**\
 Contributi e modifiche sono benvenuti!
 
 

@@ -1,6 +1,6 @@
-# 📢 Post LinkedIn – Puccia Linux
+# 📢 Post LinkedIn – Puccia Tech
 
-🔔 Annunciato ufficialmente il **Puccia Linux – [Nome edizione]**  
+🔔 Annunciato ufficialmente il **Puccia Tech – [Nome edizione]**  
 📅 [Data] – 📍 [Luogo]
 
 Un evento che fonde tecnologia, condivisione e cultura open source in modo semplice, accessibile e gustoso.
@@ -16,4 +16,4 @@ Il tutto condito con il motto dell’edizione:
 🎟️ Ingresso gratuito – registrazione consigliata su Pretix  
 🔗 Info evento: [link]
 
-#PucciaLinux #OpenSource #FLOSS #LinuxCommunity #EventiTech #SalentoTech #OpenKnowledgeHub @FareZeroMakers
+#PucciaTech #OpenSource #FLOSS #LinuxCommunity #EventiTech #SalentoTech #OpenKnowledgeHub @FareZeroMakers

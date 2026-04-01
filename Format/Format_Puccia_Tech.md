@@ -1,8 +1,8 @@
-# 🌟 Format Ufficiale - Puccia Linux
+# 🌟 Format Ufficiale - Puccia Tech
 
 ## 🐧 Identità dell’evento
 
-- **Nome:** Puccia Linux
+- **Nome:** Puccia Tech
 - **Motto:** Cambia a ogni edizione, sempre ironico e memorabile  
   Esempio: _"This Time lo faremo Seriooh! ...Maybe"_
 - **Concept:** Unire la cultura open source con l'identità salentina e la convivialità del buon cibo (la puccia!)
@@ -85,4 +85,4 @@
 
 ---
 
-**Puccia Linux: dove il codice incontra la puccia, e lo spirito open source ha il sapore del Salento.**
+**Puccia Tech: dove il codice incontra la puccia, e lo spirito open source ha il sapore del Salento.**

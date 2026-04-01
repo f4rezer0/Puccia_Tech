@@ -1,18 +1,18 @@
-# 📜 Regolamento per l’utilizzo del format Puccia Linux
+# 📜 Regolamento per l’utilizzo del format Puccia Tech
 
-## 🧩 1. Cos'è il format Puccia Linux
+## 🧩 1. Cos'è il format Puccia Tech
 
-Il format **Puccia Linux** è un modello aperto e replicabile per organizzare eventi a tema open source, nati nel Salento ma pensati per essere universali.  
+Il format **Puccia Tech** è un modello aperto e replicabile per organizzare eventi a tema open source, nati nel Salento ma pensati per essere universali.  
 L’obiettivo è promuovere la condivisione del sapere tecnico e umano in un clima informale, accogliente e… farcito.
 
 ---
 
 ## 📌 2. Requisiti per l’utilizzo
 
-Chiunque voglia usare il format Puccia Linux deve:
+Chiunque voglia usare il format Puccia Tech deve:
 
-- Mantenere **il nome “Puccia Linux”** visibile nell’evento
-- Rispettare **la struttura base** (vedi `format/format-puccia-linux.md`)
+- Mantenere **il nome “Puccia Tech”** visibile nell’evento
+- Rispettare **la struttura base** (vedi `format/format-puccia-tech.md`)
 - Adottare **un motto originale e ironico** per ogni edizione
 - Offrire **contenuti liberi, non commerciali e accessibili**
 - Garantire **la presenza reale della puccia** o di un equivalente territoriale
@@ -44,7 +44,7 @@ Gli eventi devono essere:
 
 ## 💛 5. Etica e community
 
-Chi organizza un Puccia Linux:
+Chi organizza un Puccia Tech:
 
 - Mantiene un tono **informale, ironico ma rispettoso**
 - Non parla *a* una community, ma *con* la community
@@ -56,7 +56,7 @@ Chi organizza un Puccia Linux:
 ## 📢 6. Comunicazione
 
 - Pubblica l’evento su una pagina web, social o blog
-- Usa gli hashtag ufficiali (#PucciaLinux, #OpenKnowledgeHub)
+- Usa gli hashtag ufficiali (#PucciaTech, #OpenKnowledgeHub)
 - Se vuoi visibilità tramite la community principale, apri una issue!
 
 ---
@@ -74,6 +74,6 @@ Se usi questo format, **rilascia anche tu i tuoi materiali allo stesso modo.**
 
 Perché crediamo nel potere del software libero, del sapere condiviso e… della puccia.
 
-> **Puccia Linux è di tutti, ma non è di chi se ne approfitta.**  
+> **Puccia Tech è di tutti, ma non è di chi se ne approfitta.**  
 > È una cosa seria.  
 > **Seriooh... maybe.** 😎
